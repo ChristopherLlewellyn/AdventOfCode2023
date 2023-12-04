@@ -11,3 +11,7 @@ new Day2().Part2();
 // -- DAY 3 --
 new Day3().Part1();
 new Day3().Part2();
+
+// -- DAY 4 --
+new Day4().Part1();
+new Day4().Part2();
